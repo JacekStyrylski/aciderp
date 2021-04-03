@@ -1,4 +1,4 @@
-USE DimensionsDB
+USE DimensionsDB;
 
 EXEC tSQLt.NewTestClass 'testDimensionsDb';
 GO
